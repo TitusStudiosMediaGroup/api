@@ -64,7 +64,7 @@ body {
     display: none;
     position: absolute;
     width: 100%;
-    bottom: 0;
+    top: 0;
     background-color: #2E3440;
     cursor: auto;
 }
