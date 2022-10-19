@@ -83,5 +83,6 @@ body {
 }
 
 .attachment-info-fullsize {
+    display: block !important;
     height: 100% !important;
 }
