@@ -47,6 +47,7 @@ body {
     font-size: 12px;
     height: 300px;
     cursor: pointer;
+    min-width: 200px;
 }
 
 .attachment-container:hover .attachment-info {
